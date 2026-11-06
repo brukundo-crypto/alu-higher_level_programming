@@ -16,3 +16,4 @@ the pycodestyle style guide.
 | Directory | Topic |
 |---|---|
 | python-hello_world | Printing, strings, indexing and slicing |
+| python-data_structures | Lists, tuples, indexing and sequence operations |
