@@ -20,3 +20,4 @@ the pycodestyle style guide.
 | python-more_data_structures | Sets, dictionaries, matrices and map |
 | python-exceptions | try, except, finally and raising exceptions |
 | python-classes | Classes, private attributes, properties and methods |
+| python-more_classes | Class attributes, special methods, static and class methods |
