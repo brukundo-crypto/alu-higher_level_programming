@@ -23,3 +23,4 @@ the pycodestyle style guide.
 | python-more_classes | Class attributes, special methods, static and class methods |
 | python-everything_is_object | Objects, identity, mutability and aliasing |
 | python-inheritance | Inheritance, type checking and a geometry hierarchy |
+| python-input_output | Files, JSON serialization and Pascal's triangle |
