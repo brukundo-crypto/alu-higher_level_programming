@@ -83,3 +83,17 @@ type and negative raises the TypeError:
 The smallest accepted value is 1:
 
     >>> bg.integer_validator("minimum", 1)
+
+Both arguments are required. Calling ``integer_validator()`` with no
+argument raises a TypeError:
+
+    >>> bg.integer_validator()  # doctest: +IGNORE_EXCEPTION_DETAIL
+    Traceback (most recent call last):
+    TypeError
+
+Calling ``integer_validator("age")`` with only the name raises a TypeError
+as well:
+
+    >>> bg.integer_validator("age")  # doctest: +IGNORE_EXCEPTION_DETAIL
+    Traceback (most recent call last):
+    TypeError
