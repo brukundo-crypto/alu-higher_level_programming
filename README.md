@@ -19,3 +19,4 @@ the pycodestyle style guide.
 | python-data_structures | Lists, tuples, indexing and sequence operations |
 | python-more_data_structures | Sets, dictionaries, matrices and map |
 | python-exceptions | try, except, finally and raising exceptions |
+| python-classes | Classes, private attributes, properties and methods |
